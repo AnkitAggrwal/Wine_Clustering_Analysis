@@ -65,13 +65,12 @@ To evaluate and compare the effectiveness of different clustering algorithms on 
 - 📌 **PCA 2D Scatter Plots** of clustering for visual comparison
 - 📊 **Bar charts** comparing evaluation scores across methods and preprocessing techniques
 
-<p align="center">
-  <img src="results/cluster_plots.png" width="600" />
-</p>
 
-<p align="center">
-  <img src="results/evaluation_table.png" width="600" />
-</p>
+
+![image](https://github.com/user-attachments/assets/185a6b5b-d737-46a2-9cbe-5486cdb8b599)
+![image](https://github.com/user-attachments/assets/8851f600-dbf6-438c-89dc-f5878ed5c382)
+
+
 
 ---
 
@@ -83,8 +82,4 @@ To evaluate and compare the effectiveness of different clustering algorithms on 
 
 ---
 
-## 📂 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnkitAggrwal/wine-clustering-analysis.git
